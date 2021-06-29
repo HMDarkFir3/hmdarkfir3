@@ -6,7 +6,7 @@
 </p>
 
 <p align="left" >
-  Comecei a programar com 16 anos quando entrei para o curso técnico de Desenvolvimento de Sistemas na ETEC Doutora Ruth Cardoso - São Vicente/SP, desde lá não paro de estudar       programação.
+  Comecei a programar com 16 anos quando entrei para o curso técnico de Desenvolvimento de Sistemas na ETEC Doutora Ruth Cardoso - São Vicente/SP, desde lá não paro de estudar     programação.
 </p>
 
 <p align="left" >
@@ -23,6 +23,10 @@
 
 <p align="left" >
   📖 Estudando atualmente: <strong>React Native</strong> e <strong>JavaScript</strong>.
+</p>
+
+<p align="left" >
+  ❤️ Minha lib: <strong>react-translation-firebase-errors</strong>
 </p>
 
 ---
