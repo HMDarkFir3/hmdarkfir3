@@ -14,15 +14,15 @@
 </p>
 
 <p align="left" >
-  📚 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, <strong>ReactJS</strong>, <strong>Next.js</strong>, <strong>React Native</strong> e <strong>Expo</strong>.
+  📚 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>ReactJS</strong>, <strong>Next.js</strong>, <strong>React Native</strong> e <strong>Expo</strong>.
 </p>
 
 <p align="left" >
-  🛠️ Ferramentes: <strong>Microsoft Windows</strong>, <strong>Visual Studio Code</strong>, <strong>Git</strong> e <strong>Github</strong>.
+  🛠️ Ferramentas: <strong>Microsoft Windows</strong>, <strong>Visual Studio Code</strong>, <strong>Git</strong> e <strong>Github</strong>.
 </p>
 
 <p align="left" >
-  📖 Estudando atualmente: <strong>React Native</strong> e <strong>JavaScript</strong>.
+  📖 Estudando atualmente: <strong>React Native</strong>, <strong>JavaScript</strong> e <strong>TypeScript</strong>.
 </p>
 
 <p align="left" >
