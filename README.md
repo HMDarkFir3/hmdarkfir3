@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/65872394/123755202-0d9ab680-d892-11eb-9f29-b2936118b088.gif" align="right" min-width="300px" max-width="550px" width="300px">
+<img src="https://user-images.githubusercontent.com/65872394/123756467-5010c300-d893-11eb-9916-596d3302ce98.gif" align="right" min-width="300px" max-width="550px" width="300px"
+ />
 
 <p align="left" >
   Olá sou o Henrique, tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara - Santos/SP.
