@@ -26,7 +26,7 @@
 </p>
 
 <p align="left" >
-  ❤️ Minha lib: <strong>react-translation-firebase-errors</strong>
+  ❤️ Minha lib: <a href="https://github.com/HMDarkFir3/react-translation-firebase-errors#readme">react-translation-firebase-errors</a>
 </p>
 
 ---
