@@ -1,17 +1,28 @@
-Olá sou o Henrique, tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara - Santos/SP.
+<p align="left" >
+  Olá sou o Henrique, tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara - Santos/SP.
+</p>
 
-Comecei a programar com 16 anos quando entrei para o curso técnico de Desenvolvimento de Sistemas na ETEC Doutora Ruth Cardoso - São Vicente/SP, desde lá não paro de estudar programação.
+<p align="left" >
+  Comecei a programar com 16 anos quando entrei para o curso técnico de Desenvolvimento de Sistemas na ETEC Doutora Ruth Cardoso - São Vicente/SP, desde lá não paro de estudar       programação.
+</p>
 
-Sou extremamente apaixonado por React Native e sempre estou aberto a aprender novas tecnologias.
+<p align="left" >
+  Sou extremamente apaixonado por React Native e sempre estou aberto a aprender novas tecnologias.
+</p>
 
-📚 Conhecimentos: HTML, CSS, JavaScript, ReactJS, Next.js, React Native e Expo.
+<p align="left" >
+  📚 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, <strong>ReactJS</strong>, <strong>Next.js</strong>, <strong>React Native</strong> e <strong>Expo</strong>.
+</p>
 
-🛠️ Ferramentes: Microsoft Windows, Visual Studio Code, Git e Github.
+<p align="left" >
+  🛠️ Ferramentes: <strong>Microsoft Windows</strong>, <strong>Visual Studio Code</strong>, <strong>Git</strong> e <strong>Github</strong>.
+</p>
 
-📖 Estudando atualmente: React Native e JavaScript.
+<p align="left" >
+  📖 Estudando atualmente: <strong>React Native</strong> e <strong>JavaScript</strong>.
+</p>
 
 ---
-
 <p align="left">
   <a href="https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <p>
