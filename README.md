@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/65872394/123755202-0d9ab680-d892-11eb-9f29-b2936118b088.gif" align="right" min-width="300px" max-width="550px" width="300px">
+
 <p align="left" >
   Olá sou o Henrique, tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara - Santos/SP.
 </p>
@@ -24,8 +26,8 @@
 
 ---
 <p align="left">
-  <a href="mailto:henriquestudo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:henriquestudo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <p>
 
 
