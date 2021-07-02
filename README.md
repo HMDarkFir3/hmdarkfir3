@@ -14,19 +14,41 @@
 </p>
 
 <p align="left" >
-  📚 Conhecimentos: <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>ReactJS</strong>, <strong>Next.js</strong>, <strong>React Native</strong> e <strong>Expo</strong>.
+  📚 Conhecimentos: 
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JavaScript-FFA500?style=flat-square&logo=javascript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/ReactJS-00BFFF?style=flat-square&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React Native-836FFF?style=flat-square&logo=react&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white">
 </p>
 
 <p align="left" >
-  🛠️ Ferramentas: <strong>Microsoft Windows</strong>, <strong>Visual Studio Code</strong>, <strong>Git</strong> e <strong>Github</strong>.
+  🛠️ Ferramentas: 
+  <br>
+  <img src="https://img.shields.io/badge/Microsoft Windows-5E5E5E?style=flat-square&logo=microsoft&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> 
 </p>
 
 <p align="left" >
-  📖 Estudando atualmente: <strong>React Native</strong>, <strong>JavaScript</strong> e <strong>TypeScript</strong>.
+  📖 Estudando atualmente: 
+  <br>
+  <img src="https://img.shields.io/badge/React Native-836FFF?style=flat-square&logo=react&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JavaScript-FFA500?style=flat-square&logo=javascript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> 
 </p>
 
-<p align="left" >
-  ❤️ Minha lib: <a href="https://github.com/HMDarkFir3/react-translation-firebase-errors#readme">react-translation-firebase-errors</a>
+<p align="left" > 
+  ❤️ Minha lib:
+  <br>
+  <a href="https://www.npmjs.com/package/react-translation-firebase-errors">
+    <img src="https://img.shields.io/static/v1?label=npm&message=react-translation-firebase-errors&color=CB3837&style=flat-square">
+  </a>
 </p>
 
 ---
