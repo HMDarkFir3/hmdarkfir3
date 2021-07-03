@@ -53,8 +53,9 @@
 
 ---
 <p align="left">
-  <a href="mailto:henriquestudo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="mailto:henriquestudo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">     </a>
   <a href="https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://www.instagram.com/hrq_marques/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <p>
 
 
