@@ -46,14 +46,14 @@
 <p align="left" > 
   ❤️ Minha lib:
   <br>
-  <a href="https://www.npmjs.com/package/react-translation-firebase-errors">
-    <img src="https://img.shields.io/static/v1?label=npm&message=react-translation-firebase-errors&color=CB3837&style=flat-square">
-  </a>
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hmdarkfir3&repo=react-translation-firebase-errors&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B)](https://www.npmjs.com/package/react-translation-firebase-errors)
+
 </p>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmdarkfir3&langs_count=3&layout=compact&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmdarkfir3&langs_count=5&layout=compact&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <a href="mailto:henriquestudo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">     </a>
