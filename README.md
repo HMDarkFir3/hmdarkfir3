@@ -47,8 +47,10 @@
   ❤️ Minha lib:
   <br>
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hmdarkfir3&repo=react-translation-firebase-errors&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B)](https://www.npmjs.com/package/react-translation-firebase-errors)
-
+<a href="https://www.npmjs.com/package/react-translation-firebase-errors">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hmdarkfir3&repo=react-translation-firebase-errors&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B" />
+</a>
+ 
 </p>
 
 ---
