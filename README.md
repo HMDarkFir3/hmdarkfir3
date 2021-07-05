@@ -53,7 +53,15 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmdarkfir3&langs_count=5&layout=compact&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hmdarkfir3&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B&show_icons=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmdarkfir3&langs_count=5&layout=compact&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B" />
+</a>
+
+---
 
 <p align="left">
   <a href="mailto:henriquestudo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">     </a>
