@@ -52,6 +52,9 @@
 </p>
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmdarkfir3&langs_count=3&layout=compact&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
   <a href="mailto:henriquestudo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">     </a>
   <a href="https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
