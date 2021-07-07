@@ -37,40 +37,27 @@
 
 <p align="left" >
   📖 Estudando atualmente: 
-  <br>
-  <img src="https://img.shields.io/badge/React Native-836FFF?style=flat-square&logo=react&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JavaScript-FFA500?style=flat-square&logo=javascript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> 
+   <br>
+   <img src="https://img.shields.io/badge/React Native-836FFF?style=flat-square&logo=react&logoColor=white"> 
+   <img src="https://img.shields.io/badge/JavaScript-FFA500?style=flat-square&logo=javascript&logoColor=white"> 
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> 
 </p>
 
 <p align="left" > 
   ❤️ Minha lib:
   <br>
  
-<a href="https://www.npmjs.com/package/react-translation-firebase-errors">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hmdarkfir3&repo=react-translation-firebase-errors&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B" />
-</a>
- 
- <p align="left" >
-  <img alt="NPM package version" src="https://img.shields.io/npm/v/react-translation-firebase-errors?style=flat-square">
-  
-  <img alt="NPM package downloads" src="https://img.shields.io/npm/dt/react-translation-firebase-errors?style=flat-square">
-  
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/react-translation-firebase-errors?style=flat-square">
-  
-  <img alt="Repository issues size" src="https://img.shields.io/github/issues/hmdarkfir3/react-translation-firebase-errors?style=flat-square">
-  
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" />
-</p>
- 
+   <a href="https://www.npmjs.com/package/react-translation-firebase-errors">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hmdarkfir3&repo=react-translation-firebase-errors&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B" />
+   </a>
 </p>
 
 ---
 
 <p align="left" >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api?username=hmdarkfir3&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B&show_icons=true" />
- </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=hmdarkfir3&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B&show_icons=true" />
+   </a>
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmdarkfir3&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B&langs_count=5&layout=compact" />
