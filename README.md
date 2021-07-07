@@ -51,6 +51,18 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hmdarkfir3&repo=react-translation-firebase-errors&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B" />
 </a>
  
+ <p align="left" >
+  <img alt="NPM package version" src="https://img.shields.io/npm/v/react-translation-firebase-errors?style=flat-square">
+  
+  <img alt="NPM package downloads" src="https://img.shields.io/npm/dt/react-translation-firebase-errors?style=flat-square">
+  
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/react-translation-firebase-errors?style=flat-square">
+  
+  <img alt="Repository issues size" src="https://img.shields.io/github/issues/hmdarkfir3/react-translation-firebase-errors?style=flat-square">
+  
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" />
+</p>
+ 
 </p>
 
 ---
