@@ -67,6 +67,8 @@
 
 ---
 
+<h2>Contato:</h2>
+
 <p align="left">
   <a href="mailto:henriquestudo@outlook.com" target="_blank"><img align="center" src="icons/microsoftoutlook.svg" width="42px"></a> -
   <a href="https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/" target="_blank"><img align="center" src="icons/linkedin.svg" width="42px"></a> -
