@@ -32,7 +32,7 @@
   🛠️ Ferramentas: 
   <br>
   <img align="center" src="icons/microsoft.svg" width="28px"> -
-  <img align="center" src="icons/visualstudiocode.svg" width="28px"> -
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28px"> -
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28px"> -
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28px"> -
   <img align="center" src="icons/bitbucket.svg" width="28px"> 
