@@ -41,7 +41,7 @@
    <br>
    <img align="center" src="icons/react-native.svg" width="24px"> -
    <img align="center" src="icons/javascript.svg" width="24px"> -
-   <img align="center" src="icons/typescript.svg" width="24px"> -
+   <img align="center" src="icons/typescript.svg" width="24px">
 </p>
 
 <p align="left" > 
