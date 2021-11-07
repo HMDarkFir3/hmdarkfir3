@@ -16,32 +16,34 @@
 <p align="left" >
   📚 Conhecimentos: 
   <br>
-  <img align="center" src="icons/html5.svg" width="24px"> -
-  <img align="center" src="icons/css3.svg" width="24px"> -
-  <img align="center" src="icons/javascript.svg" width="24px"> -
-  <img align="center" src="icons/typescript.svg" width="24px"> -
-  <img align="center" src="icons/react.svg" width="24px"> -
-  <img align="center" src="icons/nextdotjs.svg" width="24px"> -
-  <img align="center" src="icons/react-native.svg" width="24px"> -
-  <img align="center" src="icons/expo.svg" width="24px"> 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28px"/> -
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28px"/> -
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28px"> -
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28px"> -
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28px"> -
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28px"> -
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28px"> -
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28px"> -
+  <img align="center" src="icons/react-native.svg" width="28px"> -
+  <img align="center" src="icons/expo.svg" width="28px"> 
 </p>
 
 <p align="left" >
   🛠️ Ferramentas: 
   <br>
-  <img align="center" src="icons/microsoft.svg" width="24px"> -
-  <img align="center" src="icons/visualstudiocode.svg" width="24px"> -
-  <img align="center" src="icons/git.svg" width="24px"> -
-  <img align="center" src="icons/github.svg" width="24px"> -
-  <img align="center" src="icons/bitbucket.svg" width="24px"> 
+  <img align="center" src="icons/microsoft.svg" width="28px"> -
+  <img align="center" src="icons/visualstudiocode.svg" width="28px"> -
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28px"> -
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28px"> -
+  <img align="center" src="icons/bitbucket.svg" width="28px"> 
 </p>
 
 <p align="left" >
   📖 Estudando atualmente: 
    <br>
-   <img align="center" src="icons/react-native.svg" width="24px"> -
-   <img align="center" src="icons/javascript.svg" width="24px"> -
-   <img align="center" src="icons/typescript.svg" width="24px">
+   <img align="center" src="icons/react-native.svg" width="28px"> -
+   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28px"> -
+   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28px">
 </p>
 
 <p align="left" > 
@@ -71,7 +73,7 @@
 
 <p align="left">
   <a href="mailto:henriquestudo@outlook.com" target="_blank"><img align="center" src="icons/microsoftoutlook.svg" width="42px"></a> -
-  <a href="https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/" target="_blank"><img align="center" src="icons/linkedin.svg" width="42px"></a> -
+  <a href="https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42px"></a> -
  <a href="https://www.instagram.com/hrq_marques/" target="_blank"><img align="center" src="icons/instagram.svg" width="42px"></a>
 <p>
 
