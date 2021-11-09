@@ -16,7 +16,6 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28px">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28px">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28px">
-<img align="left" src="icons/react-native.svg" width="28px">
 <img align="left" src="icons/expo.svg" width="28px">
 
 <br><br>
@@ -31,7 +30,7 @@
 <br><br>
 
 ### 📖 Estudando atualmente: 
-<img align="left" src="icons/react-native.svg" width="28px"> 
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28px">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28px"> 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28px">
 
