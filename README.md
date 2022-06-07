@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/65872394/123756467-5010c300-d893-11eb-9916-596d3302ce98.gif" align="right" min-width="300px" max-width="550px" width="300px"
  />
 
-#### Olá sou o Henrique, tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara - Santos/SP.
+#### Olá sou o Henrique, tenho 20 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara - Santos/SP.
 
 #### Comecei a programar com 16 anos quando entrei para o curso técnico de Desenvolvimento de Sistemas na ETEC Doutora Ruth Cardoso - São Vicente/SP, desde lá não paro de estudar programação.
 
