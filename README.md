@@ -3,7 +3,7 @@
 
 #### Hello my name is Henrique, I am 20 years old, I am a technician in Systems Development at ETEC Dr. Ruth Cardoso - São Vicente/SP. 
 
-#### I am currently doing technologist at Fatec Rubens Lara - Santos/SP, performing the course of Analysis and Development of Systems, 4th Cycle. 
+#### I am currently doing technologist at Fatec Rubens Lara - Santos/SP, performing the course of Analysis and Development of Systems, 6th Cycle. 
 
 #### At the moment, I'm focused on studying React Native, something I'm extremely passionate about. On my Github I have some projects that I developed through some events I participated in and courses I took.
 
