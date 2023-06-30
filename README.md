@@ -1,11 +1,7 @@
 <img src="https://user-images.githubusercontent.com/65872394/123756467-5010c300-d893-11eb-9916-596d3302ce98.gif" align="right" min-width="300px" max-width="550px" width="300px"
  />
 
-#### Hello my name is Henrique, I am 20 years old, I am a technician in Systems Development at ETEC Dr. Ruth Cardoso - São Vicente/SP. 
-
-#### I am currently doing technologist at Fatec Rubens Lara - Santos/SP, performing the course of Analysis and Development of Systems, 6th Cycle. 
-
-#### At the moment, I'm focused on studying React Native, something I'm extremely passionate about. On my Github I have some projects that I developed through some events I participated in and courses I took.
+#### Hello! I'm Henrique, a Systems Development technician from ETEC Doutora Ruth Cardoso, currently studying Analysis and Systems Development at Fatec Rubens Lara. Experienced in logistics and e-commerce projects, with a focus on mobile app development using React Native. Proficient in website development using ReactJS, NextJS, VueJS and NuxtJS. 
 
 ### 📚 Knowledge:
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28px"/>
