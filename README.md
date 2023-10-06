@@ -32,11 +32,7 @@
 
 <br><br>
 
-### ❤️ My libraries:
-<a href="https://www.npmjs.com/package/react-translation-firebase-errors">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hmdarkfir3&repo=react-translation-firebase-errors&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B" />
-</a>
-
+### ❤️ My library:
 <a href="https://www.npmjs.com/package/react-native-linear-gradient-text">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hmdarkfir3&repo=react-native-linear-gradient-text&title_color=5D478B&bg_color=111111&text_color=E8E8E8&border_color=5D478B" />
 </a>
