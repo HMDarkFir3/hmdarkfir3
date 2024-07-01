@@ -42,9 +42,7 @@
 <h2>Contact:</h2>
 
 <p align="left">
-  <a href="mailto:henriquestudo@outlook.com" target="_blank"><img align="left" src="icons/microsoftoutlook.svg" width="42px"></a>
   <a href="https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42px"></a>
- <a href="https://www.instagram.com/hrq_marques/" target="_blank"><img align="left"" src="icons/instagram.svg" width="42px"></a>
 <p>
 
 
